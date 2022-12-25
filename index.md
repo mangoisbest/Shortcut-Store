@@ -1,4 +1,3 @@
-## Shortcuts are listed below
+**Shortcuts are listed below**
 
-### [Clipboard Pro](Shortcuts/Clipboard-Pro/)
-
+**[Clipboard Pro](Shortcuts/Clipboard-Pro/)**
