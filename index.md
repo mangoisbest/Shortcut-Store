@@ -5,3 +5,5 @@
 [Online Games](Shortcuts/Online-Games/)
 <br>
 [Auto Message](Shortcuts/Auto-Message/)
+<br>
+[ctrlCenter](Shortcuts/ctrlCenter/)
